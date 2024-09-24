@@ -2,11 +2,11 @@
 
 ### My tech stack 🎨 is next:
 
-<div style="display:flex;">
-    <img src="./assets/node.png"/>
-    <img src="./assets/angular.png"/>
-    <img src="./assets/NgRx.png"/>
-    <img src="./assets/nest.png"/>
-    <img src="./assets/postgre.png"/>
-    <img src="./assets/docker.png"/>
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
+    <img src="./assets/node.png" alt="Node.js" style="width: 20%; height: auto;"/>
+    <img src="./assets/angular.png" alt="Angular" style="width: 20%; height: auto;"/>
+    <img src="./assets/NgRx.png" alt="NgRx" style="width: 20%; height: auto;"/>
+    <img src="./assets/nest.png" alt="NestJS" style="width: 20%; height: auto;"/>
+    <img src="./assets/postgre.png" alt="PostgreSQL" style="width: 20%; height: auto;"/>
+    <img src="./assets/docker.png" alt="Docker" style="width: 20%; height: auto;"/>
 </div>
